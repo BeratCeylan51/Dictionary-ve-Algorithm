@@ -1,0 +1,1 @@
+Türkçe Azerice İngilizce ve Rusça seçeneklerinden seçtiğiniz dilin girilen sayının metinsel karşılığını yazdırma

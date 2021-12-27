@@ -1,0 +1,16 @@
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\convert_a_number_to_text\bin\Debug\convert_a_number_to_text.exe.config
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\convert_a_number_to_text\bin\Debug\convert_a_number_to_text.exe
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\convert_a_number_to_text\bin\Debug\convert_a_number_to_text.pdb
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.csproj.AssemblyReference.cache
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.csproj.SuggestedBindingRedirects.cache
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.csproj.CoreCompileInputs.cache
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.exe
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.pdb
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\bin\Debug\convert_a_number_to_text.exe.config
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\bin\Debug\convert_a_number_to_text.exe
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\bin\Debug\convert_a_number_to_text.pdb
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.csproj.AssemblyReference.cache
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.csproj.SuggestedBindingRedirects.cache
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.csproj.CoreCompileInputs.cache
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.exe
+C:\C#\Convert_a_Number_To_Text\convert_a_number_to_text\obj\Debug\convert_a_number_to_text.pdb

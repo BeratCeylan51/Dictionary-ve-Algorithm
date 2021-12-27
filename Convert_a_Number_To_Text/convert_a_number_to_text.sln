@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convert_a_number_to_text", "convert_a_number_to_text\convert_a_number_to_text.csproj", "{009D44ED-AFBC-41C3-BDC5-BD71904BF18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009D44ED-AFBC-41C3-BDC5-BD71904BF18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009D44ED-AFBC-41C3-BDC5-BD71904BF18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009D44ED-AFBC-41C3-BDC5-BD71904BF18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009D44ED-AFBC-41C3-BDC5-BD71904BF18A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0F8EFF-51A6-4974-9BC3-5D5472DB4640}
+	EndGlobalSection
+EndGlobal
